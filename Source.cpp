@@ -93,7 +93,7 @@ void Insert(Node*& pRoot, Node* pNewNode)
 	}
 }
 
-void main()
+int main()
 {
 	int i;
 
